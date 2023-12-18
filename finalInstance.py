@@ -97,4 +97,4 @@ async def on_message(message):
 
 
 # Run the bot with the retrieved token
-client.run(MTE4NTM4MDIzOTM2NzQ4MzM5Mg.GJp2WC._QG6uUtJ9XX-5GK06mEFnB9RrHRV1ny4vMiuUY)
+client.run('MTE4NTM4MDIzOTM2NzQ4MzM5Mg.GJp2WC._QG6uUtJ9XX-5GK06mEFnB9RrHRV1ny4vMiuUY')
